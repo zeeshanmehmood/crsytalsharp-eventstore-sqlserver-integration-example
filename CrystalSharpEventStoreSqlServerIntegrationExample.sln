@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpEventStoreSqlServerIntegrationExample.Application", "CrystalSharpEventStoreSqlServerIntegrationExample.Application\CrystalSharpEventStoreSqlServerIntegrationExample.Application.csproj", "{9878A691-52A0-4A3C-83E7-04FA95941CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpEventStoreSqlServerIntegrationExample.Api", "CrystalSharpEventStoreSqlServerIntegrationExample.Api\CrystalSharpEventStoreSqlServerIntegrationExample.Api.csproj", "{8D717FDD-B37F-4B7D-AA2B-3AB8EB3C994F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9878A691-52A0-4A3C-83E7-04FA95941CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9878A691-52A0-4A3C-83E7-04FA95941CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9878A691-52A0-4A3C-83E7-04FA95941CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9878A691-52A0-4A3C-83E7-04FA95941CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D717FDD-B37F-4B7D-AA2B-3AB8EB3C994F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D717FDD-B37F-4B7D-AA2B-3AB8EB3C994F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D717FDD-B37F-4B7D-AA2B-3AB8EB3C994F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D717FDD-B37F-4B7D-AA2B-3AB8EB3C994F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9FA54E8-3C3D-481A-8C1F-F4A4F817E8DF}
+	EndGlobalSection
+EndGlobal
